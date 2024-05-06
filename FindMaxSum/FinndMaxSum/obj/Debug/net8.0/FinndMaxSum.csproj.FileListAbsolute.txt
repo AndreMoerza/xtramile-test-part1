@@ -1,0 +1,14 @@
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\bin\Debug\net8.0\FinndMaxSum.exe
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\bin\Debug\net8.0\FinndMaxSum.deps.json
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\bin\Debug\net8.0\FinndMaxSum.runtimeconfig.json
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\bin\Debug\net8.0\FinndMaxSum.dll
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\bin\Debug\net8.0\FinndMaxSum.pdb
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.AssemblyInfoInputs.cache
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.AssemblyInfo.cs
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.csproj.CoreCompileInputs.cache
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.dll
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\refint\FinndMaxSum.dll
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.pdb
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\FinndMaxSum.genruntimeconfig.cache
+D:\xtramile-test\FinndMaxSum\FinndMaxSum\obj\Debug\net8.0\ref\FinndMaxSum.dll

@@ -1,0 +1,14 @@
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\bin\Debug\net8.0\FindUniqueNumbers.exe
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\bin\Debug\net8.0\FindUniqueNumbers.deps.json
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\bin\Debug\net8.0\FindUniqueNumbers.runtimeconfig.json
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\bin\Debug\net8.0\FindUniqueNumbers.dll
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\bin\Debug\net8.0\FindUniqueNumbers.pdb
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.AssemblyInfoInputs.cache
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.AssemblyInfo.cs
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.csproj.CoreCompileInputs.cache
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.dll
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\refint\FindUniqueNumbers.dll
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.pdb
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\FindUniqueNumbers.genruntimeconfig.cache
+D:\xtramile-test\FindUniqueNumbers\FindUniqueNumbers\obj\Debug\net8.0\ref\FindUniqueNumbers.dll
